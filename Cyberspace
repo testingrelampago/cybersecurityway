@@ -1,0 +1,123 @@
+# I will add and organize this file with all the things that (I think :smile:) we should learn to be great in Cybersecurity
+
+# Cyberspace
+
+  Python
+	Scripts
+		port scanning tools
+	NMap
+		Example: nmap -A -T4 -p22,80,111,139,443 192.168.202.130
+	Wireshark
+		TCP
+		UDP
+	Bash
+	SQL Inception
+	Performance
+	Penetration Testing
+	Load testing
+	DNS
+	Cisco
+	Domain and subdomain
+	IP
+	Router
+	Metaexploit
+	Nessus
+	Burp suite
+	Crawler
+	Nikto scanner
+	Kioptrix weak ciphers
+	Hackthebox
+	Tryhackme site
+	Enumeration
+	Linux
+	RPC
+	smb2
+	Nbstat
+	NetBIOS
+	Ssh
+	Apache
+	Red-hat/linux
+	VMWare
+	Anti-clickjacking
+	Cross site scripting
+	HTTP Methods
+		get, head, options, trace
+	Dirbuster
+	OWASP
+	Brute force
+	SIEM (Security Information & Event Management)
+	Blue team and Read team
+	CTF
+		https://ctftime.org/
+	Pentestlab
+	OSCP
+	CCS
+	PTS
+	Cyberblue rangers
+	Build a lab
+	wpa_supplican service
+	Wlan 
+	networkmanagerservices
+	MCadress 
+		whitelist
+	airodum-ng
+	dynamic (DAST) and static (SAST) testing
+	ISO/IEC 27001
+	Shell
+		payload to a reverse TCP shell
+	man in the middle
+	ciphers
+	CVE 
+		https://www.cvedetails.com/
+	Exploit-db.com
+	execute code overflow
+	smbclient
+	SMB
+	Jekyll
+	hosts files
+	netcap
+	openfuck (openluck)
+		helton wernik/ openluck
+	slackware linux
+	Suse linux
+	yellow dog linux
+	msf5
+	Samba 2.2.1
+	Obsidian
+	Openvpn
+	synack
+		find vulnerabilities
+	username map script
+	Putty
+	handler
+	ping
+	rhosts
+	gateway
+	thecybermentor.com
+	Genmask
+	stuffing
+	breach-parse
+	cmd
+	chmod
+	.sh
+	session
+		tcp udp (ask ..)
+	Public key
+	private key
+	OSCP
+	certificates
+		.der
+	pichfork atack
+		sniper atack
+	burp intruder
+	windows server
+	ISO
+	LLMNR/NBT-NS poisoning
+		MDNS
+	Active directory
+	.gz
+		.zip
+	hashcat
+	hash
+		algorithms
+	realuniq
