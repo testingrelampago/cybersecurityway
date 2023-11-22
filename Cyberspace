@@ -1,137 +1,131 @@
+# Cyberspace
 # I will add and organize this file with all the things that (I think :smile:) we should learn to be great in Cybersecurity
 
-# Cyberspace
-
+.der
+.gz
 .sh
+.zip
 Active directory
 Airodum-ng
+algorithms
 Anti-clickjacking
 Apache
 Bash
 Blue team and Read team
+breach-parse
 Brute force
 Build a lab
+burp intruder
 Burp suite
 CCS
 certificates
-	.der
 chmod
-Cisco
 ciphers
+Cisco
 cmd
 Crawler
 Cross site scripting
-CTF
-	https://ctftime.org/
-CVE 
-	https://www.cvedetails.com/
+CTF, https://ctftime.org/
+CVE, https://www.cvedetails.com/
 Cyberblue rangers
 Devops
 Dirbuster
-DoS
 DNS
 Docker
 Domain and subdomain
+DoS
 dynamic (DAST) and static (SAST) testing
-Python
-Scripts
-	port scanning tools
-NMap
-	Example: nmap -A -T4 -p22,80,111,139,443 192.168.202.130
-Wireshark
-	TCP
-	UDP
-SQL Inception
-SMB
-Performance
-Penetration Testing
-Load testing
-IP
-Router
-Metaexploit
-Nessus
-Nikto scanner
-Kioptrix weak ciphers
-Hackthebox
-Tryhackme site
+eLearnSecurity PTX
 Enumeration
+execute code overflow
+Exploit-db.com
+find vulnerabilities
+fuzzysecurity
+gateway
+Genmask
+Hackthebox
+handler
+harmjoy
+hash
+hashcat
+helton wernik/ openluck
+hosts files
+HTTP Methods (get, head, options, trace)
+IP
+ISO
+ISO/IEC 27001
+Jekyll
+Kali Linux Certified Professional (KLCP)
+Kerberoasting
+Kioptrix weak ciphers
 Linux
-RPC
-smb2
+LLMNR/NBT-NS poisoning
+Load testing
+man in the middle
+MCadress 
+MDNS
+Metaexploit
+mitm6
+MS17-010
+msf5
 Nbstat
+Nessus
 NetBIOS
-Ssh
+netcap
+networkmanagerservices
+Nikto scanner
+NMap, Example: nmap -A -T4 -p22,80,111,139,443 192.168.202.130
+Obsidian
+openfuck (openluck)
+Openvpn
+OSCP
+OSCP
+OWASP
+payload to a reverse TCP shell
+Penetration Testing
+pentesteracademy.com
+Pentestlab
+Performance
+pichfork atack
+ping
+port scanning tools
+private key
+PTS
+Public key
+Putty
+Python
+realuniq
 Red-hat/linux
 relay attack
-MS17-010
-VMWare
-Kerberoasting
-mitm6
-HTTP Methods
-	get, head, options, trace
-OWASP
-SIEM (Security Information & Event Management)
-Pentestlab
-OSCP
-PTS
-wpa_supplican service
-Wlan 
-networkmanagerservices
-MCadress 
-	whitelist
-ISO/IEC 27001
-Shell
-	payload to a reverse TCP shell
-man in the middle
-Exploit-db.com
-execute code overflow
-smbclient
-SMB
-Jekyll
-hosts files
-netcap
-openfuck (openluck)
-	helton wernik/ openluck
-slackware linux
-Suse linux
-yellow dog linux
-msf5
-Samba 2.2.1
-Obsidian
-Openvpn
-synack
-	find vulnerabilities
-Username map script
-Putty
-handler
-ping
 rhosts
-gateway
-thecybermentor.com
-Genmask
+Router
+RPC
+Samba 2.2.1
+Scripts
+session (tcp udp (ask ..))
+Shell
+SIEM (Security Information & Event Management)
+slackware linux
+SMB
+SMB
+smb2
+smbclient
+sniper atack
+SQL Inception
+Ssh
 stuffing
-breach-parse
-session
-	tcp udp (ask ..)
-Public key
-private key
-OSCP
-pichfork atack
-	sniper atack
-burp intruder
-windows server
-ISO
-LLMNR/NBT-NS poisoning
-	MDNS
-.gz
-	.zip
-hashcat
-hash
-	algorithms
-realuniq
+Suse linux
+synack
+TCP
+thecybermentor.com
+Tryhackme site
+UDP
+Username map script
+VMWare
 vulnhub
-Kali Linux Certified Professional (KLCP)
-harmjoy
-fuzzysecurity
-eLearnSecurity PTX
-pentesteracademy.com
+whitelist
+windows server
+Wireshark
+Wlan 
+wpa_supplican service
+yellow dog linux
