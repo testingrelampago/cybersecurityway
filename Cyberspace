@@ -62,7 +62,11 @@ Nbstat
 NetBIOS
 Ssh
 Red-hat/linux
+relay attack
+MS17-010
 VMWare
+Kerberoasting
+mitm6
 HTTP Methods
 	get, head, options, trace
 OWASP
@@ -127,3 +131,5 @@ hash
 realuniq
 vulnhub
 Kali Linux Certified Professional (KLCP)
+harmjoy
+fuzzysecurity
