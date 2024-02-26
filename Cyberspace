@@ -73,6 +73,7 @@ Kerberoasting
 Kioptrix weak ciphers
 likejacking
 Linux
+LFI (Local File Inclusion)
 LLMNR/NBT-NS poisoning
 Load testing
 man in the middle
@@ -114,6 +115,7 @@ realuniq
 Red-hat/linux
 relay attack
 rhosts
+RFI (Remote File Inclusion)
 Router
 RPC
 Samba 2.2.1
