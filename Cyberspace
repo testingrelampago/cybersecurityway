@@ -1,6 +1,11 @@
+# -----------------------------
+#
 # Cyberspace
 # I will add and organize this file with all the things that (I think :smile:) we should learn to be great in Cybersecurity
+#
+# ------------------------------
 
+100KLOC
 .cer
 .crt
 .der
@@ -25,11 +30,12 @@ Burp intruder
 Burp suite
 CCS
 certificates
+Checkmarx
 chmod
 ciphers
 Cisco
 Clickjacking
-cmd
+CMD
 Command injection
 Crawler
 Cross site scripting
@@ -53,6 +59,7 @@ Exploitation
 Exploiting blind
 Exploit-db.com
 find vulnerabilities
+Fortify
 fuzzysecurity
 framekiller js
 gateway
@@ -101,7 +108,6 @@ Null Terminators
 Obsidian
 openfuck (openluck)
 Openvpn
-OSCP
 OSCP
 OWASP
 payload to a reverse TCP shell
@@ -154,6 +160,7 @@ thecybermentor.com
 Tryhackme site
 UDP
 Username map script
+Veracode
 VMWare
 vulnhub
 What it is
