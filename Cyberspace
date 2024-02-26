@@ -20,7 +20,7 @@ breach-parse
 Brute force
 Bug
 Build a lab
-burp intruder
+Burp intruder
 Burp suite
 CCS
 certificates
@@ -94,7 +94,8 @@ NetBIOS
 netcap
 networkmanagerservices
 Nikto scanner
-NMap, Example: nmap -A -T4 -p22,80,111,139,443 192.168.202.130
+NMap
+Null Terminators
 Obsidian
 openfuck (openluck)
 Openvpn
@@ -106,6 +107,7 @@ Penetration Testing
 pentesteracademy.com
 Pentestlab
 Performance
+phishing
 pichfork atack
 ping
 port scanning tools
