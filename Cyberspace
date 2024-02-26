@@ -14,6 +14,7 @@ algorithms
 Anti-clickjacking
 Apache
 Bash
+Bcrypt
 Blind SQLi
 Blue team and Read team
 breach-parse
@@ -78,7 +79,8 @@ LFI (Local File Inclusion)
 LLMNR/NBT-NS poisoning
 Load testing
 man in the middle
-MCadress 
+MCadress
+MD5
 MDNS
 Metaexploit
 MIME
@@ -103,6 +105,7 @@ OSCP
 OSCP
 OWASP
 payload to a reverse TCP shell
+PBKDF2
 Penetration Testing
 pentesteracademy.com
 Pentestlab
@@ -125,10 +128,13 @@ RFI (Remote File Inclusion)
 Router
 RPC
 Samba 2.2.1
+Salting
 Scripts
 Same-Origin Policy
 session (tcp udp (ask ..))
 Session Fixation
+SHA1
+sha256
 Shell
 SIEM (Security Information & Event Management)
 slackware linux
@@ -139,6 +145,7 @@ smbclient
 sniper atack
 SQL Inception (SQLi)
 Ssh
+SSRF
 stuffing
 Suse linux
 synack
