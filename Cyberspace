@@ -14,6 +14,7 @@ algorithms
 Anti-clickjacking
 Apache
 Bash
+Blind SQLi
 Blue team and Read team
 breach-parse
 Brute force
@@ -26,12 +27,15 @@ chmod
 ciphers
 Cisco
 cmd
+Command injection
 Crawler
 Cross site scripting
+CSRF (Cross-Site Request Forgery)
 CTF, https://ctftime.org/
 CVE, https://www.cvedetails.com/
 Cyberblue rangers
 Devops
+Directory traversal
 Dirbuster
 DNS
 Docker
@@ -39,8 +43,11 @@ Domain and subdomain
 DoS
 dynamic (DAST) and static (SAST) testing
 eLearnSecurity PTX
+Encoding sniffing
 Enumeration
 execute code overflow
+Exploitation
+Exploiting blind
 Exploit-db.com
 find vulnerabilities
 fuzzysecurity
@@ -54,6 +61,7 @@ hashcat
 helton wernik/ openluck
 hosts files
 HTTP Methods (get, head, options, trace)
+HTML parsing
 IP
 ISO
 ISO/IEC 27001
@@ -68,6 +76,8 @@ man in the middle
 MCadress 
 MDNS
 Metaexploit
+MIME sniffing
+Mitigation
 mitm6
 MS17-010
 msf5
@@ -105,6 +115,7 @@ Router
 RPC
 Samba 2.2.1
 Scripts
+Same-Origin Policy
 session (tcp udp (ask ..))
 Shell
 SIEM (Security Information & Event Management)
@@ -114,7 +125,7 @@ SMB
 smb2
 smbclient
 sniper atack
-SQL Inception
+SQL Inception (SQLi)
 Ssh
 stuffing
 Suse linux
@@ -126,6 +137,7 @@ UDP
 Username map script
 VMWare
 vulnhub
+What it is
 whitelist
 windows server
 Wireshark
