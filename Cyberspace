@@ -26,6 +26,7 @@ certificates
 chmod
 ciphers
 Cisco
+Clickjacking
 cmd
 Command injection
 Crawler
@@ -51,6 +52,7 @@ Exploiting blind
 Exploit-db.com
 find vulnerabilities
 fuzzysecurity
+framekiller js
 gateway
 Genmask
 Hackthebox
@@ -69,6 +71,7 @@ Jekyll
 Kali Linux Certified Professional (KLCP)
 Kerberoasting
 Kioptrix weak ciphers
+likejacking
 Linux
 LLMNR/NBT-NS poisoning
 Load testing
