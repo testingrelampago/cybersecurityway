@@ -117,6 +117,7 @@ Samba 2.2.1
 Scripts
 Same-Origin Policy
 session (tcp udp (ask ..))
+Session Fixation
 Shell
 SIEM (Security Information & Event Management)
 slackware linux
