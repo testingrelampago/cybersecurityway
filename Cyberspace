@@ -18,6 +18,7 @@ Blind SQLi
 Blue team and Read team
 breach-parse
 Brute force
+Bug
 Build a lab
 burp intruder
 Burp suite
@@ -80,9 +81,11 @@ man in the middle
 MCadress 
 MDNS
 Metaexploit
+MIME
 MIME sniffing
 Mitigation
 mitm6
+multipart POSTs
 MS17-010
 msf5
 Nbstat
@@ -115,6 +118,7 @@ realuniq
 Red-hat/linux
 relay attack
 rhosts
+Reverse engineering
 RFI (Remote File Inclusion)
 Router
 RPC
@@ -149,4 +153,5 @@ windows server
 Wireshark
 Wlan 
 wpa_supplican service
+XSS
 yellow dog linux
